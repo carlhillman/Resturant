@@ -15,8 +15,8 @@ function Navbar(props) {
   };
   return (
     <nav className="nav">
-      <a href="#" className="brand">
-        brand
+      <a href="/home" className="brand">
+        Babbes Ke-babbar
       </a>
       <ul className={active}>
         <li className="nav__item">
